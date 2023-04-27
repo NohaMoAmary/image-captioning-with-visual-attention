@@ -1,0 +1,11 @@
+build:
+  gpu: true
+  python_version: "3.8"
+  python_packages:
+    - "pillow==8.4.0"
+    - "tensorflow==2.8.0"
+    - "keras==2.8.0"
+    - "pandas==1.3.5"
+   
+    
+predict: "predict.py:Predictor"
