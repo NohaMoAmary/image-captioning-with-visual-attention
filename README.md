@@ -11,4 +11,5 @@ Evaluation metric used was BLEU score for 1,2,3 and 4 grams
 
 ## Deployment
 Deployment was done using cog (Cog is an open-source command-line tool for packaging ML models)
-Deployed model linke [click here](https://replicate.com/nohamoamary/image-description-base-model)
+Deployed model linke [click here](https://replicate.com/nohamoamary/image-captioning-with-visual-attention)
+
